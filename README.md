@@ -18,13 +18,12 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-
 ## Add New Hooks
+
 ```
 npx husky add .husky/hook-name "echo \"[Husky] hook-name\""
 
 ```
-
 
 ## Learn More
 
